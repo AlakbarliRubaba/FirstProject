@@ -1,4 +1,61 @@
 body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
+}
+
+#demo .box .minibox {
+  width: 150px;
+  height: 150px;
+  background-color: #4d95cf;
+  padding: 10px;
+  margin: 10px;
+  color: #ffffff;
+}
+#demo .box .box3 {
+  position: absolute;
+  top: 330px;
+  left: 330px;
+}
+
+#homework .minibox {
+  width: 150px;
+  height: 150px;
+  background-color: #74a496;
+  color: #ffffff;
+  padding: 10px;
+  margin: 10px;
+}
+#homework .box1 {
+  position: absolute;
+  left: 320px;
+}
+
+#purple .minibox {
+  width: 150px;
+  height: 150px;
+  background-color: #d285cc;
+  color: #ffffff;
+  margin: 10px;
+  padding: 10px;
+}
+#purple .box33 {
+  position: absolute;
+  top: 470px;
+  left: 480px;
+}
+
+#home .box {
+  width: 620px;
+}
+#home .box .minibox {
+  width: 150px;
+  height: 150px;
+  background-color: #d285cc;
+  margin: 10px;
+  padding: 10px;
+  color: #ffffff;
+}
+#home .box .box1 {
+  position: absolute;
+  right: 2px;
 }/*# sourceMappingURL=style.css.map */
