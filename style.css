@@ -58,4 +58,13 @@ body {
 #home .box .box1 {
   position: absolute;
   right: 2px;
+}
+
+#push .box {
+  width: 620px;
+}
+#push .box .minibox {
+  width: 150px;
+  height: 150px;
+  background-color: #e356e3;
 }/*# sourceMappingURL=style.css.map */
