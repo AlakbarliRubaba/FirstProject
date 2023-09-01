@@ -66,5 +66,12 @@ body {
 #push .box .minibox {
   width: 150px;
   height: 150px;
-  background-color: #e356e3;
+  background-color: #d285cc;
+  color: #ffffff;
+  margin: 10px;
+  padding: 10px;
+}
+#push .box .one {
+  position: fixed;
+  right: -1px;
 }/*# sourceMappingURL=style.css.map */
