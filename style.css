@@ -30,18 +30,21 @@ body {
   left: 320px;
 }
 
-#purple .minibox {
+#purple .box {
+  position: relative;
+}
+#purple .box .minibox {
   width: 150px;
   height: 150px;
-  background-color: #d285cc;
+  background-color: #e196da;
   color: #ffffff;
   margin: 10px;
   padding: 10px;
 }
-#purple .box2 {
+#purple .box .box3 {
   position: absolute;
-  top: 470px;
-  left: 480px;
+  top: 460px;
+  left: 370px;
 }
 
 #home .box {
@@ -67,7 +70,7 @@ body {
   width: 150px;
   height: 150px;
   background-color: #d285cc;
-  color: white;
+  color: #ffffff;
   margin: 10px;
   padding: 10px;
 }
